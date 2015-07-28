@@ -14,4 +14,4 @@ Features
 
 Copyright 2014
 Thanks to Jonathan Snook for the original Version
-Released under the MIT License
+Released under the MIT License 
